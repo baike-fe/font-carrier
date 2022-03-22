@@ -1,5 +1,5 @@
 {
-  "name": "font-carrier",
+  "name": "wiki-font-carrier",
   "version": "0.3.1",
   "description": "字体搬运工，中文字体解决方案，iconfont",
   "main": "./lib/index.js",
